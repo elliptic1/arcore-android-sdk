@@ -16,5 +16,6 @@ allprojects {
         mavenLocal()
         jcenter()
         maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://maven.google.com" }
     }
 }
